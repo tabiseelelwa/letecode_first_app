@@ -112,10 +112,10 @@ class _MyHomePageState extends State<MyHomePage> {
               spacing: 20,
               children: [
                 Row(
-                  spacing: 20,
+                  spacing: 15,
                   children: [
-                    Image.network(
-                      "https://cdn.pixabay.com/photo/2025/06/11/07/05/wildlife-9653769_1280.jpg",
+                    Image.asset(
+                      "assets/images/buck-9317347_1280.png",
                       height: 40,
                       width: 45,
                     ),
@@ -140,8 +140,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 Row(
                   spacing: 20,
                   children: [
-                    Image.network(
-                      "https://cdn.pixabay.com/photo/2025/06/11/07/05/wildlife-9653769_1280.jpg",
+                    Image.asset(
+                      "assets/images/dog-9670619_1280.jpg",
                       height: 40,
                       width: 45,
                     ),
@@ -166,8 +166,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 Row(
                   spacing: 20,
                   children: [
-                    Image.network(
-                      "https://cdn.pixabay.com/photo/2025/06/11/07/05/wildlife-9653769_1280.jpg",
+                    Image.asset(
+                      "assets/images/forest-9685700_1280.jpg",
                       height: 40,
                       width: 45,
                     ),
@@ -192,8 +192,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 Row(
                   spacing: 20,
                   children: [
-                    Image.network(
-                      "https://cdn.pixabay.com/photo/2025/06/11/07/05/wildlife-9653769_1280.jpg",
+                    Image.asset(
+                      "assets/images/weizenfeld-7161095_1280.jpg",
                       height: 40,
                       width: 45,
                     ),
